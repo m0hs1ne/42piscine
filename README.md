@@ -1,5 +1,5 @@
 <h1 align="center">
-	🏊 C Piscine @ 42 Urduliz
+	🏊 C Piscine @ 1337
 </h1>
 
 <p align="center">
