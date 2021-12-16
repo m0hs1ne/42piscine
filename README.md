@@ -81,17 +81,17 @@ The table below show the projects that I have carried out during my C Piscine in
 
 |#	|SUBJECT			|LANGUAGE		|EXPERIENCE	|STATUS				|ATTAINED LEVEL	|
 |:-:    |:--				|:-:				|--:		|--:				|:--		|
-|01	|[Shell 00](./shell00)		|Shell				|100 XP		|100% :heavy_check_mark:	|level 0 - 88%	|
-|02	|[Shell 01](./shell01)		|Shell				|100 XP		|85% :heavy_check_mark:		|level 1 - 55%	|
-|03	|Exam 00			|C			|225 XP		|0% :x:				|-             	|
-|04	|[C 00](./c00)			|C				|100 XP		|85% :heavy_check_mark:		|level 2 - 13%	|
-|05	|[Rush 00](./rush00)		|C				|150 XP		|120% :heavy_check_mark:	|level 3 - 32%	|
-|06	|[C 01](./c01)			|C				|100 XP		|100% :heavy_check_mark:	|level 3 - 98%	|
-|07	|Exam 01			|C			|225 XP		|0% :x:				|-            	|
-|09	|[C 02](./c02)			|C				|100 XP		|65% :heavy_check_mark:		|level 4 - 32%	|
-|10	|[C 03](./c03)			|C				|100 XP		|75% :heavy_check_mark:		|level 4 - 72%	|
-|11	|Exam 02			|C			|225 XP		|28% :heavy_check_mark:		|level 5 - 04%	|
-|13	|[C 04](./c04)			|C 			|100 XP		|70% :heavy_check_mark:		|level 5 - 37%	|
-|14	|[C 06](./c06)			|C				|100 XP		|70% :heavy_check_mark:		|level 5 - 70%	|
-|15	|[C 05](./c05)			|C				|100 XP		|75% :heavy_check_mark:		|level 6 - 05%	|
-|17	|Final Exam			|C			|375 XP		|48% :heavy_check_mark:		|level 6 - 79%	|
+|01	|[Shell 00](./shell00)		|Shell				|100 XP		|85% :heavy_check_mark:	|level 0 - 74%	|
+|02	|[Shell 01](./shell01)		|Shell				|100 XP		|100% :heavy_check_mark:		|level 1 - 55%	|
+|03	|Exam 00			|C			        |225 XP		|0% :x:				|-             	|
+|04	|[C 00](./c00)			|C				|100 XP		|85% :heavy_check_mark:		|level 2 - 18%	|
+|06	|[C 01](./c01)			|C				|100 XP		|100% :heavy_check_mark:	|level 2 - 87%	|
+|08	|[C 02](./c02)			|C				|100 XP		|75% :heavy_check_mark:		|level 3 - 33%	|
+|09	|[C 03](./c03)			|C				|100 XP		|100% :heavy_check_mark:		|level 3 - 94%	|
+|07	|Exam 01			|C			        |225 XP		|32% ✔️				|level 4 - 32%           	|
+|11	|[C 04](./c04)			|C 			        |100 XP		|85% :heavy_check_mark:		|level 4 - 78%	|
+|12	|[C 05](./c05)			|C				|100 XP		|60% :heavy_check_mark:		|level 5 - 8%	|
+|13	|[C 06](./c06)			|C				|100 XP		|100% :heavy_check_mark:		|level 5 - 56%	|
+|10	|Exam 02			|C			        |225 XP		|42% :heavy_check_mark:		|level 6 - 0%	|
+|14	|[C 07](./c07)			|C				|100 XP		|60% :heavy_check_mark:		|level 6 - 25%	|
+|14	|Final Exam			|C			        |375 XP		|42% :heavy_check_mark:		|level 6 - 90%	|
