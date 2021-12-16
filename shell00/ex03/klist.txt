@@ -1,0 +1,5 @@
+Credentials cache: API:4312
+        Principal: mel-hada@1337.MA
+
+  Issued                Expires               Principal
+Aug  2 15:17:18 2021  Aug  9 15:16:58 2021  krbtgt/1337.MA@1337.MA
