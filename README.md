@@ -70,10 +70,6 @@ This is my coding work developed during my Piscine experience at [1337](https://
 	
 ------
 
-## :camera: My 42 Piscine Intra Profile
-
-![m0hs1ne's 42 piscine stats](https://badge42.herokuapp.com/api/stats/mel-hada?cursus=C%20Piscine)
-
 
 ## Fulfilled projects
 
